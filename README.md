@@ -334,15 +334,16 @@ Restaurant.html
 
 ~~~
 # OUTPUT:
-![alt text](<Screenshot 2024-12-14 194616.png>) 
+![image](https://github.com/user-attachments/assets/14433799-5e6f-45f8-8e60-96908254a634)
+ 
+![image](https://github.com/user-attachments/assets/d7f5ba8c-09a5-47e0-8983-e4e81fe0bac0)
 
-![alt text](<Screenshot 2024-12-14 194640.png>) 
+![image](https://github.com/user-attachments/assets/9fb2780f-fef7-4b9e-a53a-3d8bd8f34f2c)
 
-![alt text](<Screenshot 2024-12-14 194655.png>) 
+![image](https://github.com/user-attachments/assets/87c1ebd8-97a1-4891-8880-4842010091d1)
 
-![alt text](<Screenshot 2024-12-14 194717.png>) 
+![image](https://github.com/user-attachments/assets/8616df65-2c2a-4560-a082-6a9f130aa298)
 
-![alt text](<Screenshot 2024-12-14 194742.png>) 
 
 
 # RESULT:
